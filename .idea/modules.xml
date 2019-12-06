@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YF_MS_WEB/Msproject.iml" filepath="$PROJECT_DIR$/YF_MS_WEB/Msproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YF_MS_CACHE/YF_MS_CACHE.iml" filepath="$PROJECT_DIR$/YF_MS_CACHE/YF_MS_CACHE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YF_MS_COMMON/YF_MS_COMMON.iml" filepath="$PROJECT_DIR$/YF_MS_COMMON/YF_MS_COMMON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YF_MS_DAO/YF_MS_DAO.iml" filepath="$PROJECT_DIR$/YF_MS_DAO/YF_MS_DAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YF_MS_ORDER/YF_MS_ORDER.iml" filepath="$PROJECT_DIR$/YF_MS_ORDER/YF_MS_ORDER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YF_MS_PARENT.iml" filepath="$PROJECT_DIR$/YF_MS_PARENT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YF_MS_REDIS/YF_MS_REDIS.iml" filepath="$PROJECT_DIR$/YF_MS_REDIS/YF_MS_REDIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YF_MS_SERVICE/YF_MS_SERVICE.iml" filepath="$PROJECT_DIR$/YF_MS_SERVICE/YF_MS_SERVICE.iml" />
+    </modules>
+  </component>
+</project>

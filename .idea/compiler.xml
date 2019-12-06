@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Msproject" />
+        <module name="YF_MS_CACHE" />
+        <module name="YF_MS_COMMON" />
+        <module name="YF_MS_DAO" />
+        <module name="YF_MS_ORDER" />
+        <module name="YF_MS_Redis" />
+        <module name="YF_MS_SERVICE" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Msproject" target="1.5" />
+      <module name="YF_MS_CACHE" target="1.5" />
+      <module name="YF_MS_COMMON" target="1.5" />
+      <module name="YF_MS_DAO" target="1.5" />
+      <module name="YF_MS_ORDER" target="1.5" />
+      <module name="YF_MS_PARENT" target="1.8" />
+      <module name="YF_MS_Redis" target="1.5" />
+      <module name="YF_MS_SERVICE" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

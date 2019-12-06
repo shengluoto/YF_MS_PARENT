@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.youfan.common:YF_MS_COMMON:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/m2/repository/com/youfan/common/YF_MS_COMMON/0.0.1-SNAPSHOT/YF_MS_COMMON-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/m2/repository/com/youfan/common/YF_MS_COMMON/0.0.1-SNAPSHOT/YF_MS_COMMON-0.0.1-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/m2/repository/com/youfan/common/YF_MS_COMMON/0.0.1-SNAPSHOT/YF_MS_COMMON-0.0.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
